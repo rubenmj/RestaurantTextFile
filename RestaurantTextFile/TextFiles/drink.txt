@@ -1,0 +1,9 @@
+water-5.0
+fanta-6.5
+coke-6.5
+beer-8.5
+wine-8.5
+coffee-6.0
+sangria-5.6
+sprite-4.5
+orange juice-8.5
